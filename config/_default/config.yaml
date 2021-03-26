@@ -78,4 +78,4 @@ related:
 backend:
   name: git-gateway
   repo: HauptSoc/HauptSocWeb
-  branch: master
+  branch: main
