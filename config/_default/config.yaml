@@ -74,3 +74,8 @@ related:
       weight: 100
     - name: categories
       weight: 70
+
+backend:
+  name: git-gateway
+  repo: HauptSoc/HauptSocWeb
+  branch: master
