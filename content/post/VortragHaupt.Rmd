@@ -1,0 +1,11 @@
+---
+title: "Bildung und die Einkommenslücke zwischen Partnern in Westdeutschland, 1976-2011"
+description: "An Analysis with the German Microcensus"
+author: Andreas Haupt, Susanne Strauß & Anna-Theresa Saile
+date: 2020-03-04
+publishdate: 2020-03-02
+---
+
+Slides for the talk: 
+[**Slides**](/Vortrag/FamSek/VortragHaupt.html)
+
