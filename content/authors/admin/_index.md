@@ -25,6 +25,7 @@ interests:
 - Distributional Methods
 - Gender specific inequalities 
 - Economic inequality
+- Families and Couples
 
 education:
   courses:
