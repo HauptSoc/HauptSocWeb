@@ -1,7 +1,7 @@
 ---
 title: "The Long Road to Economic Independence of German Women, 1973 to 2011"
 authors:
-- admin
+- Andreas Haupt
 date: "2019-01-01T00:00:00Z"
 doi: "10.1177/2378023118818740"
 

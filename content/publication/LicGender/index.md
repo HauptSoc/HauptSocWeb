@@ -1,7 +1,7 @@
 ---
 title: "Is Occupational Licensing More Beneficial for Women than for Men? The Case of Germany, 1993/2015 "
 authors:
-- admin
+- Andreas Haupt
 - Nils Witte
 date: "2019-11-14T00:00:00Z"
 doi: ''

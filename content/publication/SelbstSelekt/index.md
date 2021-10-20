@@ -4,7 +4,7 @@
 title: "Selbstselektion bei der Analyse von Kontexteffekten in der Bildungsforschung. Eine Illustration des Propensity-Score-Matchings"
 authors: 
 - Felix Wolter
-- admin
+- Andreas Haupt
 date: 2019-11-23T15:53:10+01:00
 doi: ""
 

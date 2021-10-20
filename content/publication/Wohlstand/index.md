@@ -2,7 +2,7 @@
 title: "Wohlstand für alle? Die Entwicklung einkommensschwacher Haushalte seit 2005"
 authors:
 - Barbara Binder
-- admin
+- Andreas Haupt
 date: "2018-05-20T00:00:00Z"
 doi: "10.5771/0342-300X-2018-5-358"
 

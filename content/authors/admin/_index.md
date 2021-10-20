@@ -22,13 +22,16 @@ bio: Sociologist
 
 interests:
 - Occupations & Labor Markets
-- Distributional Methods
 - Gender specific inequalities 
 - Economic inequality
 - Families and Couples
+- Distributional Methods
 
 education:
   courses:
+  - course: Habilitation in Sociology
+    institution: Karlsruhe Institue of Technology
+    year: 2021
   - course: Dr. phil in Sociology
     institution: Karlsruhe Institue of Technology
     year: 2014
@@ -57,7 +60,7 @@ social:
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 - icon: cv
   icon_pack: ai
-  link: files/cv.pdf
+  link: upload/CV-Haupt.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
@@ -69,4 +72,4 @@ user_groups:
 - Visitors
 ---
 
-I'm a sociologist working at the Karlsruhe Institute of Technology. My research concerns the the reasons and consequences of economic inequality in modern societies. I published work about the relations of occupations to wage inequality, income richness, changes for low-income households, poverty, and the gender wage gap. More recent work concerns how to apply distributional methods properly. 
+I'm a sociologist working at the Karlsruhe Institute of Technology. My research concerns reasons and consequences of economic inequality in modern societies. I published work about the relations of occupations to wage inequality, income richness, changes for low-income households, poverty, and the gender wage gap. More recent work concerns how to apply distributional methods properly. 

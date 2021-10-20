@@ -2,7 +2,7 @@
 title: "Economic consequences of occupational deregulation: Natural experiment in the German crafts"
 authors:
 - Andreas Damelang
-- admin
+- Andreas Haupt
 - Martin Abraham
 date: "2018-01-20T00:00:00Z"
 doi: ""

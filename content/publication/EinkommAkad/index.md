@@ -3,7 +3,7 @@
 
 title: "Einkommensreichtum in Deutschland zwischen 1993 und 2014"
 authors: 
-- admin
+- Andreas Haupt
 date: 2019-11-23T16:04:25+01:00
 doi: ""
 

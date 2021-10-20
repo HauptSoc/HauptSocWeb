@@ -3,7 +3,7 @@
 
 title: "Occupations and Inequality: Theoretical Perspectives and Mechanisms"
 authors: 
-- admin 
+- Andreas Haupt 
 - Christian Ebner
 
 date: 2020-11-23T14:27:11+01:00

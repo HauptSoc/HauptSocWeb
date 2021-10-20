@@ -4,7 +4,7 @@
 title: "Occupations and Social Inequality: Introduction and Contents of the Special Issue"
 authors:
 - Christian Ebner
-- admin
+- Andreas Haupt
 - Britta Matthes
 date: "2020-07-14T00:00:00Z"
 doi: "10.1007/s11577-020-00675-2"

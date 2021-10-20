@@ -5,7 +5,7 @@ title: "Berufe und Arbeitsmarkt"
 authors:
 - Martin Abraham
 - Andreas Damelang
-- admin 
+- Andreas Haupt
 date: 2018-11-23T15:45:59+01:00
 doi: "10.1007/978-3-658-02256-3"
 
