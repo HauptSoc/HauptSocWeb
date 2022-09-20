@@ -6,7 +6,7 @@ authors:
   - Andreas Haupt
   - Gerd Nollmann
 date: 2021-10-20T16:25:52+02:00
-doi: ""
+doi: "10.1093/sf/soab133"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: 2021-10-20T16:25:52+02:00
@@ -19,7 +19,7 @@ publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
 publication: "Social Forces"
-publication_short: "Social Forces (forthcomming)"
+publication_short: "Social Forces"
 
 abstract: "In recent decades, the inequality of household income has increased globally. A common trend is increased income inequality at the top of the distribution. The sources of this trend are a matter of debate. Increased demand for analytical and managerial skills is said to have strongly increased labor incomes at the top. Other scholars have indicated that structural conditions, such as financialization or favorable taxation, have benefited top-earning households. Here, we contribute to the latter line of reasoning. We show that payroll taxes exempt parts of high labor incomes, reinforcing income inequality at the top. Such taxation has large fiscal volume and redistributive power. However, our knowledge about the distributional consequences of payroll taxation as a tax scheme is remarkably thin. Many countries, such as Germany and the US, restrict payroll taxes to a maximum amount, resulting in significant payroll tax-exempted incomes for high-earning households. Strongly growing top-labor incomes thus lead to increased payroll tax-exempted incomes for households at the upper parts of the distribution and, consequently, to higher income inequality. We use Germany (1992–2017), a highly redistributive country, as a case study. Our empirical results suggest that: a) households increasingly profit from payroll-exempted labor incomes across the upper quarter; b) this benefit has increased over time; and c) increased amounts of payroll tax-exempted labor income explain up to 60% of income dispersion at the top of the distribution. We discuss the generalizability of our case study for other countries, especially the US."
 
@@ -38,7 +38,7 @@ featured: false
 #   icon_pack: fab
 #   icon: twitter
 
-url_pdf:
+url_pdf: "https://academic.oup.com/sf/advance-article-pdf/doi/10.1093/sf/soab133/41025788/soab133.pdf"
 url_code:
 url_dataset:
 url_poster:
